@@ -1,1 +1,1 @@
-# Attaque-par-faute-contre-le-DES
+Pour exécuter le projet il suffit de taper python attaque_DES.py sur le terminal.
